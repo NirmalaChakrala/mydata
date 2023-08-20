@@ -1,0 +1,3 @@
+to push data to remote repo
+
+git push --force <remote_repository>
